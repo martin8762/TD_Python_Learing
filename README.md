@@ -1,2 +1,2 @@
-# TD_Python_Learing
-TD_Python_Learing  GIt exercise
+# TD_Python_Learning
+TD_Python_Learning  GIt exercise
